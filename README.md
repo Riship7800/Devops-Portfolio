@@ -1,4 +1,4 @@
-DevOps Portfolio Website
+**DevOps Portfolio Website**
 
 A modern and responsive portfolio built with React (Vite) and Tailwind CSS to showcase my DevOps, IoT, and Web projects.
 
