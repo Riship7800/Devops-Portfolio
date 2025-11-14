@@ -22,6 +22,7 @@ LocalStorage persistence
 Responsive, clean UI (Tailwind)
 
 Project modal with Live/GitHub links
+
 ---
 
 🔧 Tech Stack
